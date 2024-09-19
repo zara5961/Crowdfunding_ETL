@@ -32,7 +32,7 @@ We split the category and subcategory values in the campaign data, cleaned up th
 We created four CSV files: campaign.csv, category.csv, subcategory.csv, and contacts.csv, and used them for database loading.
 
 ### 4. Load Data into PostgreSQL
-![Project](Images/python sql.jpg)
+![Project](Images/pythonsql.jpg)
 
 We defined a schema for the PostgreSQL database using the `crowdfunding_db_schema.sql` file and loaded the transformed data.
 To load data into PostgreSQL, the following steps were followed:

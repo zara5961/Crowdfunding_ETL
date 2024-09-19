@@ -1,7 +1,7 @@
 DROP TABLE IF EXISTS category;
 DROP TABLE IF EXISTS subcategory;
 DROP TABLE IF EXISTS contacts;
-DROP TABLE IF EXISTS crowdfunding;
+DROP TABLE IF EXISTS campaign;
 
 CREATE TABLE category (
   category_id varchar(30)  NOT NULL,
